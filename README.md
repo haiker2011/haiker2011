@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**About me**
+
 - 🔭 I’m currently working on cloud native and machine learning platform.
 
-<h2>GitHub Stats</h2>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=haiker2011&show_icons=true&theme=radical" alt="haiker2011" />
-
-<h2>Most Used Languages</h2>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiker2011" alt="haiker2011" />
+| <a href="https://github.com/haiker2011/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haiker2011&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Haizhou Sun's github stats" /></a> | <a href="https://github.com/haiker2011/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiker2011&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
