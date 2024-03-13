@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **About me**
 
-- 🔭 I’m currently working on cloud native and machine learning platform.
+- 🔭 I’m Haizhou Sun and currently working on cloud native and machine learning platform at SmartMore.
 
 | <a href="https://github-readme-stats.vercel.app/api?username=haiker2011&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haiker2011&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Haizhou Sun's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haiker2011&layout=compact&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiker2011&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
